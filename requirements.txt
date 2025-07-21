@@ -1,0 +1,7 @@
+folium=0.18.0
+branca=0.6.0
+shapely=1.8.0
+json=0.9.5
+pillow=8.2.0
+geopandas=0.10.2
+plotly=5.24.1
